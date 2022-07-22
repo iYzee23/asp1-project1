@@ -1,0 +1,3 @@
+﻿  dz1p2.c
+D:\Fakultet\I godina\II semestar\Algoritmi i strukture podataka 1\dz1p2\dz1p2\dz1p2.c(243,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  dz1p2.vcxproj -> D:\Fakultet\I godina\II semestar\Algoritmi i strukture podataka 1\dz1p2\Debug\dz1p2.exe
